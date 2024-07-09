@@ -65,7 +65,7 @@ As Data Scientists working on the Brazilian E-Commerce Public Dataset by Olist, 
 
 In this analysis of the Olist dataset, our primary goal was to gain insights into customer segmentation using recency, frequency, and monetary (RFM) scores. The dataset provided a comprehensive view of customer transactions, including order details, payment information, and customer reviews, spanning the years 2016 to 2018. Our initial exploration revealed a diverse customer base across different regions of Brazil, with São Paulo (SP) being the most predominant state, followed by Rio de Janeiro (RJ) and Minas Gerais (MG).
 
-Our analysis revealed distinct customer segments based on transaction behaviors. Notably, we identified 1079 High-spending New Customers, 84 Lowest-Spending Active Loyal Customers, and 29 Best Customers. Interestingly, we found no instances of Churned Best Customers, likely due to the dataset's limited two-year timeframe. This segmentation highlights opportunities for targeted marketing strategies aimed at increasing engagement and spending among various customer segments.
+Our analysis revealed distinct customer segments based on transaction behaviors. Notably, we identified 1096 High-spending New Customers, 80 Lowest-Spending Active Loyal Customers, and 32 Best Customers. Interestingly, we found no instances of Churned Best Customers, likely due to the dataset's limited two-year timeframe. This segmentation highlights opportunities for targeted marketing strategies aimed at increasing engagement and spending among various customer segments.
 
 
 
